@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexdelasalle&label=Profile%20views&color=0e75b6&style=flat" alt="alexdelasalle" /> </p>
 
-- 🔭 I’m currently working on [Chase the Sun](https://chase-the-sun-data.herokuapp.com)
+- 🔭 I’m currently working on [Black Blade Fitness](https://black-blade-fitness-273b2963f3a4.herokuapp.com)
 
 <p align="left">
 </p>
